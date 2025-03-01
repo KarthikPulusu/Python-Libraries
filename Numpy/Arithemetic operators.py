@@ -1,0 +1,13 @@
+import numpy as np
+arr_sum=np.add([1,2,3],[4,5,6])
+print("Addition:",arr_sum)
+arr_diff=np.subtract([4,5,6],[1,2,3])
+print("Subtraction:",arr_diff)
+arr_product=np.product([3,6,9],[3,2,1])
+print("Multiplication:",arr_product)
+arr_division=np.divide([10,9,6],[2,3,6])
+print("Division:",arr_division)
+arr_mod=np.mod([10,5,2],[3,3,2])
+print("Modulus:",arr_mod)
+arr_pow=np.pow([1,2,3],[4,5,3])
+print("Exponentiation:",arr_pow)
