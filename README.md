@@ -1,2 +1,2 @@
 # Python-Libraries
-Numpy, Pandas, Matplotlib, seaborn
+Numpy, Pandas, Matplotlib, Seaborn
